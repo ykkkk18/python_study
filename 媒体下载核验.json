@@ -1,0 +1,1402 @@
+[
+  {
+    "episode": 1,
+    "file": "001.mp4",
+    "bytes": 23919163,
+    "metadata_seconds": 164,
+    "media_seconds": 163.57,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 2,
+    "file": "002.mp4",
+    "bytes": 72661071,
+    "metadata_seconds": 2503,
+    "media_seconds": 2502.07,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 3,
+    "file": "003.mp4",
+    "bytes": 49911588,
+    "metadata_seconds": 1746,
+    "media_seconds": 1745.67,
+    "dimensions": [
+      1920,
+      1044
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 4,
+    "file": "004.mp4",
+    "bytes": 64049089,
+    "metadata_seconds": 1642,
+    "media_seconds": 1641.1,
+    "dimensions": [
+      1920,
+      1044
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 5,
+    "file": "005.mp4",
+    "bytes": 51649467,
+    "metadata_seconds": 1706,
+    "media_seconds": 1705.37,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 6,
+    "file": "006.mp4",
+    "bytes": 56276841,
+    "metadata_seconds": 1921,
+    "media_seconds": 1920.0,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 7,
+    "file": "007.mp4",
+    "bytes": 87136941,
+    "metadata_seconds": 2302,
+    "media_seconds": 2301.0,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 8,
+    "file": "008.mp4",
+    "bytes": 62194062,
+    "metadata_seconds": 1608,
+    "media_seconds": 1607.1,
+    "dimensions": [
+      1920,
+      1040
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 9,
+    "file": "009.mp4",
+    "bytes": 61089382,
+    "metadata_seconds": 1546,
+    "media_seconds": 1545.43,
+    "dimensions": [
+      1920,
+      1040
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 10,
+    "file": "010.mp4",
+    "bytes": 67498469,
+    "metadata_seconds": 1779,
+    "media_seconds": 1778.5,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 11,
+    "file": "011.mp4",
+    "bytes": 64769199,
+    "metadata_seconds": 1764,
+    "media_seconds": 1762.93,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 12,
+    "file": "012.mp4",
+    "bytes": 78109952,
+    "metadata_seconds": 2704,
+    "media_seconds": 2703.1,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 13,
+    "file": "013.mp4",
+    "bytes": 79340109,
+    "metadata_seconds": 2025,
+    "media_seconds": 2024.03,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 14,
+    "file": "014.mp4",
+    "bytes": 75931134,
+    "metadata_seconds": 2651,
+    "media_seconds": 2650.23,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 15,
+    "file": "015.mp4",
+    "bytes": 63700379,
+    "metadata_seconds": 2196,
+    "media_seconds": 2194.83,
+    "dimensions": [
+      1920,
+      1036
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 16,
+    "file": "016.mp4",
+    "bytes": 65443875,
+    "metadata_seconds": 2242,
+    "media_seconds": 2241.07,
+    "dimensions": [
+      1920,
+      1036
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 17,
+    "file": "017.mp4",
+    "bytes": 51857180,
+    "metadata_seconds": 1773,
+    "media_seconds": 1772.27,
+    "dimensions": [
+      1920,
+      1030
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 18,
+    "file": "018.mp4",
+    "bytes": 57309433,
+    "metadata_seconds": 1973,
+    "media_seconds": 1972.6,
+    "dimensions": [
+      1920,
+      1030
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 19,
+    "file": "019.mp4",
+    "bytes": 61735633,
+    "metadata_seconds": 1563,
+    "media_seconds": 1562.13,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 20,
+    "file": "020.mp4",
+    "bytes": 72770195,
+    "metadata_seconds": 1902,
+    "media_seconds": 1901.73,
+    "dimensions": [
+      1920,
+      1040
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 21,
+    "file": "021.mp4",
+    "bytes": 72900905,
+    "metadata_seconds": 2505,
+    "media_seconds": 2503.9,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 22,
+    "file": "022.mp4",
+    "bytes": 108153656,
+    "metadata_seconds": 2776,
+    "media_seconds": 2774.87,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 23,
+    "file": "023.mp4",
+    "bytes": 102206917,
+    "metadata_seconds": 2775,
+    "media_seconds": 2774.07,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 24,
+    "file": "024.mp4",
+    "bytes": 61503361,
+    "metadata_seconds": 2229,
+    "media_seconds": 2228.5,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 25,
+    "file": "025.mp4",
+    "bytes": 71381711,
+    "metadata_seconds": 1965,
+    "media_seconds": 1963.87,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 26,
+    "file": "026.mp4",
+    "bytes": 87723854,
+    "metadata_seconds": 3323,
+    "media_seconds": 3322.6,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 27,
+    "file": "027.mp4",
+    "bytes": 51666979,
+    "metadata_seconds": 1757,
+    "media_seconds": 1756.4,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 28,
+    "file": "028.mp4",
+    "bytes": 76910628,
+    "metadata_seconds": 2581,
+    "media_seconds": 2580.6,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 29,
+    "file": "029.mp4",
+    "bytes": 60994264,
+    "metadata_seconds": 2070,
+    "media_seconds": 2069.8,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 30,
+    "file": "030.mp4",
+    "bytes": 68837902,
+    "metadata_seconds": 2373,
+    "media_seconds": 2372.7,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 31,
+    "file": "031.mp4",
+    "bytes": 70280249,
+    "metadata_seconds": 2537,
+    "media_seconds": 2535.83,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 32,
+    "file": "032.mp4",
+    "bytes": 60372872,
+    "metadata_seconds": 2095,
+    "media_seconds": 2094.6,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 33,
+    "file": "033.mp4",
+    "bytes": 36774684,
+    "metadata_seconds": 1264,
+    "media_seconds": 1262.9,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 34,
+    "file": "034.mp4",
+    "bytes": 52300938,
+    "metadata_seconds": 1825,
+    "media_seconds": 1824.6,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 35,
+    "file": "035.mp4",
+    "bytes": 82086843,
+    "metadata_seconds": 2904,
+    "media_seconds": 2903.37,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 36,
+    "file": "036.mp4",
+    "bytes": 77936960,
+    "metadata_seconds": 2767,
+    "media_seconds": 2765.9,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 37,
+    "file": "037.mp4",
+    "bytes": 61862345,
+    "metadata_seconds": 2144,
+    "media_seconds": 2143.5,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 38,
+    "file": "038.mp4",
+    "bytes": 61002860,
+    "metadata_seconds": 2076,
+    "media_seconds": 2075.2,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 39,
+    "file": "039.mp4",
+    "bytes": 51600307,
+    "metadata_seconds": 1677,
+    "media_seconds": 1676.7,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 40,
+    "file": "040.mp4",
+    "bytes": 62821352,
+    "metadata_seconds": 2206,
+    "media_seconds": 2204.93,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 41,
+    "file": "041.mp4",
+    "bytes": 45405080,
+    "metadata_seconds": 1573,
+    "media_seconds": 1572.8,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 42,
+    "file": "042.mp4",
+    "bytes": 58521924,
+    "metadata_seconds": 2075,
+    "media_seconds": 2074.8,
+    "dimensions": [
+      1920,
+      1028
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 43,
+    "file": "043.mp4",
+    "bytes": 69010411,
+    "metadata_seconds": 1754,
+    "media_seconds": 1752.93,
+    "dimensions": [
+      1920,
+      1040
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 44,
+    "file": "044.mp4",
+    "bytes": 58842510,
+    "metadata_seconds": 1559,
+    "media_seconds": 1558.73,
+    "dimensions": [
+      1920,
+      1040
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 45,
+    "file": "045.mp4",
+    "bytes": 70582898,
+    "metadata_seconds": 1788,
+    "media_seconds": 1786.83,
+    "dimensions": [
+      1920,
+      1040
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 46,
+    "file": "046.mp4",
+    "bytes": 43469778,
+    "metadata_seconds": 1502,
+    "media_seconds": 1501.7,
+    "dimensions": [
+      1920,
+      1040
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 47,
+    "file": "047.mp4",
+    "bytes": 51037977,
+    "metadata_seconds": 1446,
+    "media_seconds": 1445.13,
+    "dimensions": [
+      1920,
+      1024
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 48,
+    "file": "048.mp4",
+    "bytes": 46422042,
+    "metadata_seconds": 1725,
+    "media_seconds": 1724.47,
+    "dimensions": [
+      1920,
+      1024
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 49,
+    "file": "049.mp4",
+    "bytes": 64792127,
+    "metadata_seconds": 1806,
+    "media_seconds": 1805.07,
+    "dimensions": [
+      1920,
+      1042
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 50,
+    "file": "050.mp4",
+    "bytes": 75068864,
+    "metadata_seconds": 1988,
+    "media_seconds": 1987.67,
+    "dimensions": [
+      1920,
+      1042
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 51,
+    "file": "051.mp4",
+    "bytes": 75143753,
+    "metadata_seconds": 2090,
+    "media_seconds": 2089.53,
+    "dimensions": [
+      1920,
+      1036
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 52,
+    "file": "052.mp4",
+    "bytes": 36911477,
+    "metadata_seconds": 1409,
+    "media_seconds": 1408.67,
+    "dimensions": [
+      1920,
+      1036
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 53,
+    "file": "053.mp4",
+    "bytes": 68836994,
+    "metadata_seconds": 1757,
+    "media_seconds": 1756.3,
+    "dimensions": [
+      1920,
+      1040
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 54,
+    "file": "054.mp4",
+    "bytes": 71967746,
+    "metadata_seconds": 1933,
+    "media_seconds": 1932.03,
+    "dimensions": [
+      1920,
+      1040
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 55,
+    "file": "055.mp4",
+    "bytes": 25027879,
+    "metadata_seconds": 705,
+    "media_seconds": 704.07,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 56,
+    "file": "056.mp4",
+    "bytes": 20343741,
+    "metadata_seconds": 537,
+    "media_seconds": 536.63,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 57,
+    "file": "057.mp4",
+    "bytes": 11143017,
+    "metadata_seconds": 441,
+    "media_seconds": 440.07,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 58,
+    "file": "058.mp4",
+    "bytes": 28520553,
+    "metadata_seconds": 808,
+    "media_seconds": 807.7,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 59,
+    "file": "059.mp4",
+    "bytes": 13236231,
+    "metadata_seconds": 327,
+    "media_seconds": 326.43,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 60,
+    "file": "060.mp4",
+    "bytes": 14849682,
+    "metadata_seconds": 394,
+    "media_seconds": 392.87,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 61,
+    "file": "061.mp4",
+    "bytes": 16328000,
+    "metadata_seconds": 553,
+    "media_seconds": 552.73,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 62,
+    "file": "062.mp4",
+    "bytes": 18213044,
+    "metadata_seconds": 471,
+    "media_seconds": 470.23,
+    "dimensions": [
+      1920,
+      1038
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 63,
+    "file": "063.mp4",
+    "bytes": 15632916,
+    "metadata_seconds": 394,
+    "media_seconds": 393.67,
+    "dimensions": [
+      1920,
+      1034
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 64,
+    "file": "064.mp4",
+    "bytes": 9728041,
+    "metadata_seconds": 311,
+    "media_seconds": 310.03,
+    "dimensions": [
+      1920,
+      1034
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 65,
+    "file": "065.mp4",
+    "bytes": 39474071,
+    "metadata_seconds": 1196,
+    "media_seconds": 1194.87,
+    "dimensions": [
+      1920,
+      1034
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 66,
+    "file": "066.mp4",
+    "bytes": 20321046,
+    "metadata_seconds": 873,
+    "media_seconds": 872.63,
+    "dimensions": [
+      1920,
+      1034
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 67,
+    "file": "067.mp4",
+    "bytes": 10309214,
+    "metadata_seconds": 329,
+    "media_seconds": 328.43,
+    "dimensions": [
+      1920,
+      1034
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 68,
+    "file": "068.mp4",
+    "bytes": 14629705,
+    "metadata_seconds": 419,
+    "media_seconds": 418.37,
+    "dimensions": [
+      1920,
+      1034
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 69,
+    "file": "069.mp4",
+    "bytes": 200557332,
+    "metadata_seconds": 6613,
+    "media_seconds": 6612.5,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 70,
+    "file": "070.mp4",
+    "bytes": 138142593,
+    "metadata_seconds": 4713,
+    "media_seconds": 4712.0,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 71,
+    "file": "071.mp4",
+    "bytes": 159123520,
+    "metadata_seconds": 4334,
+    "media_seconds": 4332.8,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 72,
+    "file": "072.mp4",
+    "bytes": 11773321,
+    "metadata_seconds": 352,
+    "media_seconds": 351.4,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 73,
+    "file": "073.mp4",
+    "bytes": 10556661,
+    "metadata_seconds": 330,
+    "media_seconds": 329.4,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 74,
+    "file": "074.mp4",
+    "bytes": 23482881,
+    "metadata_seconds": 550,
+    "media_seconds": 549.33,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 75,
+    "file": "075.mp4",
+    "bytes": 9004297,
+    "metadata_seconds": 330,
+    "media_seconds": 329.4,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 76,
+    "file": "076.mp4",
+    "bytes": 12092677,
+    "metadata_seconds": 420,
+    "media_seconds": 419.17,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 77,
+    "file": "077.mp4",
+    "bytes": 14475077,
+    "metadata_seconds": 470,
+    "media_seconds": 469.17,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 78,
+    "file": "078.mp4",
+    "bytes": 16751163,
+    "metadata_seconds": 455,
+    "media_seconds": 454.8,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 79,
+    "file": "079.mp4",
+    "bytes": 18831800,
+    "metadata_seconds": 520,
+    "media_seconds": 519.57,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 80,
+    "file": "080.mp4",
+    "bytes": 16062784,
+    "metadata_seconds": 504,
+    "media_seconds": 502.97,
+    "dimensions": [
+      1912,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 81,
+    "file": "081.mp4",
+    "bytes": 12922512,
+    "metadata_seconds": 389,
+    "media_seconds": 388.2,
+    "dimensions": [
+      1912,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 82,
+    "file": "082.mp4",
+    "bytes": 17370532,
+    "metadata_seconds": 533,
+    "media_seconds": 532.77,
+    "dimensions": [
+      1912,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 83,
+    "file": "083.mp4",
+    "bytes": 24368057,
+    "metadata_seconds": 638,
+    "media_seconds": 637.1,
+    "dimensions": [
+      1912,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 84,
+    "file": "084.mp4",
+    "bytes": 14629257,
+    "metadata_seconds": 455,
+    "media_seconds": 454.77,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 85,
+    "file": "085.mp4",
+    "bytes": 14063183,
+    "metadata_seconds": 418,
+    "media_seconds": 417.23,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 86,
+    "file": "086.mp4",
+    "bytes": 17003430,
+    "metadata_seconds": 515,
+    "media_seconds": 514.67,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 87,
+    "file": "087.mp4",
+    "bytes": 21388971,
+    "metadata_seconds": 635,
+    "media_seconds": 634.07,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 88,
+    "file": "088.mp4",
+    "bytes": 8696506,
+    "metadata_seconds": 287,
+    "media_seconds": 286.0,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 89,
+    "file": "089.mp4",
+    "bytes": 14686015,
+    "metadata_seconds": 388,
+    "media_seconds": 387.07,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 90,
+    "file": "090.mp4",
+    "bytes": 11826097,
+    "metadata_seconds": 301,
+    "media_seconds": 299.9,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 91,
+    "file": "091.mp4",
+    "bytes": 12031883,
+    "metadata_seconds": 299,
+    "media_seconds": 298.33,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 92,
+    "file": "092.mp4",
+    "bytes": 19531953,
+    "metadata_seconds": 560,
+    "media_seconds": 558.87,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 93,
+    "file": "093.mp4",
+    "bytes": 16564965,
+    "metadata_seconds": 548,
+    "media_seconds": 546.87,
+    "dimensions": [
+      1906,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 94,
+    "file": "094.mp4",
+    "bytes": 10405373,
+    "metadata_seconds": 304,
+    "media_seconds": 302.87,
+    "dimensions": [
+      1834,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 95,
+    "file": "095.mp4",
+    "bytes": 12477632,
+    "metadata_seconds": 330,
+    "media_seconds": 329.4,
+    "dimensions": [
+      1834,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 96,
+    "file": "096.mp4",
+    "bytes": 16382538,
+    "metadata_seconds": 526,
+    "media_seconds": 524.87,
+    "dimensions": [
+      1834,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 97,
+    "file": "097.mp4",
+    "bytes": 12990302,
+    "metadata_seconds": 357,
+    "media_seconds": 356.73,
+    "dimensions": [
+      1834,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 98,
+    "file": "098.mp4",
+    "bytes": 12073717,
+    "metadata_seconds": 313,
+    "media_seconds": 312.27,
+    "dimensions": [
+      1834,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 99,
+    "file": "099.mp4",
+    "bytes": 14427086,
+    "metadata_seconds": 403,
+    "media_seconds": 402.47,
+    "dimensions": [
+      1834,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  },
+  {
+    "episode": 100,
+    "file": "100.mp4",
+    "bytes": 11311638,
+    "metadata_seconds": 382,
+    "media_seconds": 381.6,
+    "dimensions": [
+      1834,
+      1080
+    ],
+    "has_audio": true,
+    "has_video": true,
+    "passed": true
+  }
+]
