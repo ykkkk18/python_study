@@ -1,0 +1,29 @@
+$ python test_project.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.009s
+
+OK
+
+$ python study_tracker.py list
+01 | 第1天 | 变量与输入输出 | 已完成
+02 | 第2天 | 判断循环与容器 | 已完成
+03 | 第3天 | 函数与异常 | 已完成
+04 | 第4天 | 文件与模块 | 已完成
+05 | 第5天 | 面向对象与数据整理 | 已完成
+06 | 第6天 | HTTP与本地接口 | 待学习
+07 | 第7天 | 综合项目与验收 | 待学习
+
+$ python study_tracker.py report
+{"total": 7, "completed": 5, "percent": 71.4, "planned_minutes": 1470, "actual_minutes": 1050}
+已生成 report.html、tasks.csv、summary.json
+
+$ python verify_workflow.py
+新增任务ID: 1
+新增任务ID: 2
+任务已完成: 1
+01 | 第1天 | 完成变量练习 | 已完成
+02 | 第2天 | 完成循环练习 | 待学习
+{"total": 2, "completed": 1, "percent": 50.0, "planned_minutes": 105, "actual_minutes": 40}
+已生成 report.html、tasks.csv、summary.json
+从空数据到导出报告：全部通过

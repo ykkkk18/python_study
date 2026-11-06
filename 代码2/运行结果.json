@@ -1,0 +1,702 @@
+[
+  {
+    "episode": 1,
+    "file": "lesson_001.py",
+    "returncode": 0,
+    "stdout": "学习顺序：基础语法 -> 函数与文件 -> 小项目 -> 进阶拓展\n",
+    "stderr": ""
+  },
+  {
+    "episode": 2,
+    "file": "lesson_002.py",
+    "returncode": 0,
+    "stdout": "Python主版本: 3\n环境检查: 可运行\n",
+    "stderr": ""
+  },
+  {
+    "episode": 3,
+    "file": "lesson_003.py",
+    "returncode": 0,
+    "stdout": "Hello, Python!\n5\n",
+    "stderr": ""
+  },
+  {
+    "episode": 4,
+    "file": "lesson_004.py",
+    "returncode": 0,
+    "stdout": "总价: 36元\n",
+    "stderr": ""
+  },
+  {
+    "episode": 5,
+    "file": "lesson_005.py",
+    "returncode": 0,
+    "stdout": "小林 120\n",
+    "stderr": ""
+  },
+  {
+    "episode": 6,
+    "file": "lesson_006.py",
+    "returncode": 0,
+    "stdout": "商品数量=3, 总价=59.70\nint float\n",
+    "stderr": ""
+  },
+  {
+    "episode": 7,
+    "file": "lesson_007.py",
+    "returncode": 0,
+    "stdout": "每天分钟: 210 余数: 0\n第一行\n第二行\n",
+    "stderr": ""
+  },
+  {
+    "episode": 8,
+    "file": "lesson_008.py",
+    "returncode": 0,
+    "stdout": "允许进入\nTrue True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 9,
+    "file": "lesson_009.py",
+    "returncode": 0,
+    "stdout": "及格\n",
+    "stderr": ""
+  },
+  {
+    "episode": 10,
+    "file": "lesson_010.py",
+    "returncode": 0,
+    "stdout": "1到5的和: 15\n*\n**\n***\n",
+    "stderr": ""
+  },
+  {
+    "episode": 11,
+    "file": "lesson_011.py",
+    "returncode": 0,
+    "stdout": "1\n3\n4\n",
+    "stderr": ""
+  },
+  {
+    "episode": 12,
+    "file": "lesson_012.py",
+    "returncode": 0,
+    "stdout": "Python中文\nPython 中文 文中nohtyP\n",
+    "stderr": ""
+  },
+  {
+    "episode": 13,
+    "file": "lesson_013.py",
+    "returncode": 0,
+    "stdout": "['python', 'python', 'SQL']\n14 True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 14,
+    "file": "lesson_014.py",
+    "returncode": 0,
+    "stdout": "['类型', '函数'] 循环\n[0, 4, 16]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 15,
+    "file": "lesson_015.py",
+    "returncode": 0,
+    "stdout": "(3, 4) {'name': '小林', 'score': 90}\n",
+    "stderr": ""
+  },
+  {
+    "episode": 16,
+    "file": "lesson_016.py",
+    "returncode": 0,
+    "stdout": "[('小林', 90), ('小周', 85)]\n0\n[3] [1, 2, 3, 4] [1, 2]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 17,
+    "file": "lesson_017.py",
+    "returncode": 0,
+    "stdout": "12 3.5 7\n(1, 2) [3, 4] A\n[1, 2, 3]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 18,
+    "file": "lesson_018.py",
+    "returncode": 0,
+    "stdout": "[[1, 9], [2]] [[1, 9], [2]] [[1], [2]]\nTrue False\n",
+    "stderr": ""
+  },
+  {
+    "episode": 19,
+    "file": "lesson_019.py",
+    "returncode": 0,
+    "stdout": "平均分: 85.0\n",
+    "stderr": ""
+  },
+  {
+    "episode": 20,
+    "file": "lesson_020.py",
+    "returncode": 0,
+    "stdout": "(25, '小林')\n[1] [2]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 21,
+    "file": "lesson_021.py",
+    "returncode": 0,
+    "stdout": "110.0\n[('甲', 80), ('乙', 95)]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 22,
+    "file": "lesson_022.py",
+    "returncode": 0,
+    "stdout": "['重做', '通过']\n1 [2, 3] 4\n",
+    "stderr": ""
+  },
+  {
+    "episode": 23,
+    "file": "lesson_023.py",
+    "returncode": 0,
+    "stdout": "{'甲': 80, '乙': 90, '丙': 70}\n[(1, '甲'), (2, '乙'), (3, '丙')]\n240 90 70 True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 24,
+    "file": "lesson_024.py",
+    "returncode": 0,
+    "stdout": "12\n本次转换结束\n请输入整数\n本次转换结束\n",
+    "stderr": ""
+  },
+  {
+    "episode": 25,
+    "file": "lesson_025.py",
+    "returncode": 0,
+    "stdout": "9.0\ndata\\tasks.json\n直接运行入口\n",
+    "stderr": ""
+  },
+  {
+    "episode": 26,
+    "file": "lesson_026.py",
+    "returncode": 0,
+    "stdout": "10\n",
+    "stderr": ""
+  },
+  {
+    "episode": 27,
+    "file": "lesson_027.py",
+    "returncode": 0,
+    "stdout": "调用: add\n5\nadd\n",
+    "stderr": ""
+  },
+  {
+    "episode": 28,
+    "file": "lesson_028.py",
+    "returncode": 0,
+    "stdout": "外层 进入\n内层 进入\n工作\n内层 离开\n外层 离开\n",
+    "stderr": ""
+  },
+  {
+    "episode": 29,
+    "file": "lesson_029.py",
+    "returncode": 0,
+    "stdout": "我正在学习Python\n",
+    "stderr": ""
+  },
+  {
+    "episode": 30,
+    "file": "lesson_030.py",
+    "returncode": 0,
+    "stdout": "小林 90\n",
+    "stderr": ""
+  },
+  {
+    "episode": 31,
+    "file": "lesson_031.py",
+    "returncode": 0,
+    "stdout": "100\n",
+    "stderr": ""
+  },
+  {
+    "episode": 32,
+    "file": "lesson_032.py",
+    "returncode": 0,
+    "stdout": "声音: 汪\n",
+    "stderr": ""
+  },
+  {
+    "episode": 33,
+    "file": "lesson_033.py",
+    "returncode": 0,
+    "stdout": "['D', 'B', 'C', 'A', 'object']\nC\n",
+    "stderr": ""
+  },
+  {
+    "episode": 34,
+    "file": "lesson_034.py",
+    "returncode": 0,
+    "stdout": "['文字报告', '<h1>报告</h1>']\nTrue Score\n",
+    "stderr": ""
+  },
+  {
+    "episode": 35,
+    "file": "lesson_035.py",
+    "returncode": 0,
+    "stdout": "True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 36,
+    "file": "lesson_036.py",
+    "returncode": 0,
+    "stdout": "2 函数、文件 函数\n",
+    "stderr": ""
+  },
+  {
+    "episode": 37,
+    "file": "lesson_037.py",
+    "returncode": 0,
+    "stdout": "学习Python\n",
+    "stderr": ""
+  },
+  {
+    "episode": 38,
+    "file": "lesson_038.py",
+    "returncode": 0,
+    "stdout": "cd 4\n",
+    "stderr": ""
+  },
+  {
+    "episode": 39,
+    "file": "lesson_039.py",
+    "returncode": 0,
+    "stdout": "['中文.txt']\n你好\n",
+    "stderr": ""
+  },
+  {
+    "episode": 40,
+    "file": "lesson_040.py",
+    "returncode": 0,
+    "stdout": "10 20\n已结束\n[10, 20] []\n",
+    "stderr": ""
+  },
+  {
+    "episode": 41,
+    "file": "lesson_041.py",
+    "returncode": 0,
+    "stdout": "[3, 2, 1]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 42,
+    "file": "lesson_042.py",
+    "returncode": 0,
+    "stdout": "0\n[1, 4, 9]\n14\n",
+    "stderr": ""
+  },
+  {
+    "episode": 43,
+    "file": "lesson_043.py",
+    "returncode": 0,
+    "stdout": "[1, 4, 9]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 44,
+    "file": "lesson_044.py",
+    "returncode": 0,
+    "stdout": "2000\n",
+    "stderr": ""
+  },
+  {
+    "episode": 45,
+    "file": "lesson_045.py",
+    "returncode": 0,
+    "stdout": "子进程完成\n已结束: True 退出码: 0\n",
+    "stderr": ""
+  },
+  {
+    "episode": 46,
+    "file": "lesson_046.py",
+    "returncode": 0,
+    "stdout": "收到: 15\n",
+    "stderr": ""
+  },
+  {
+    "episode": 47,
+    "file": "lesson_047.py",
+    "returncode": 0,
+    "stdout": "['任务1完成', '任务2完成']\n",
+    "stderr": ""
+  },
+  {
+    "episode": 48,
+    "file": "lesson_048.py",
+    "returncode": 0,
+    "stdout": "[0, 1, 2]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 49,
+    "file": "lesson_049.py",
+    "returncode": 0,
+    "stdout": "A1\nB1\nA2\n",
+    "stderr": ""
+  },
+  {
+    "episode": 50,
+    "file": "lesson_050.py",
+    "returncode": 0,
+    "stdout": "['A开始', 'B开始', 'A结束', 'B结束']\n",
+    "stderr": ""
+  },
+  {
+    "episode": 51,
+    "file": "lesson_051.py",
+    "returncode": 0,
+    "stdout": "['1', '2']\n['A']\n[' ']\n",
+    "stderr": ""
+  },
+  {
+    "episode": 52,
+    "file": "lesson_052.py",
+    "returncode": 0,
+    "stdout": "123456 True\n123 False\nabc123 False\n['aaa', 'aa']\n",
+    "stderr": ""
+  },
+  {
+    "episode": 53,
+    "file": "lesson_053.py",
+    "returncode": 0,
+    "stdout": "{'year': '2026', 'month': '11'}\nTrue\n",
+    "stderr": ""
+  },
+  {
+    "episode": 54,
+    "file": "lesson_054.py",
+    "returncode": 0,
+    "stdout": "['<b>甲</b><b>乙</b>']\n['<b>甲</b>', '<b>乙</b>']\n订单#已完成\n",
+    "stderr": ""
+  },
+  {
+    "episode": 55,
+    "file": "lesson_055.py",
+    "returncode": 0,
+    "stdout": "True ['notes']\n",
+    "stderr": ""
+  },
+  {
+    "episode": 56,
+    "file": "lesson_056.py",
+    "returncode": 0,
+    "stdout": "new.txt .txt True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 57,
+    "file": "lesson_057.py",
+    "returncode": 0,
+    "stdout": "参数: []\n主版本: 3\n搜索路径是列表: True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 58,
+    "file": "lesson_058.py",
+    "returncode": 0,
+    "stdout": "UTC年: 1970\n1970-01-01 00:00:00\n",
+    "stderr": ""
+  },
+  {
+    "episode": 59,
+    "file": "lesson_059.py",
+    "returncode": 0,
+    "stdout": "2026/11/06\n月份: 11\n",
+    "stderr": ""
+  },
+  {
+    "episode": 60,
+    "file": "lesson_060.py",
+    "returncode": 0,
+    "stdout": "INFO:开始学习\nWARNING:记得保存\n",
+    "stderr": ""
+  },
+  {
+    "episode": 61,
+    "file": "lesson_061.py",
+    "returncode": 0,
+    "stdout": "study|INFO|完成任务\n",
+    "stderr": ""
+  },
+  {
+    "episode": 62,
+    "file": "lesson_062.py",
+    "returncode": 0,
+    "stdout": "2\n['变量', '函数']\n",
+    "stderr": ""
+  },
+  {
+    "episode": 63,
+    "file": "lesson_063.py",
+    "returncode": 0,
+    "stdout": "当前主机: Windows\n虚拟机与venv不同：前者隔离操作系统，后者隔离Python依赖\n",
+    "stderr": ""
+  },
+  {
+    "episode": 64,
+    "file": "lesson_064.py",
+    "returncode": 0,
+    "stdout": "shutdown -h now => Linux立即关机 （未执行）\nreboot => Linux重启 （未执行）\n",
+    "stderr": ""
+  },
+  {
+    "episode": 65,
+    "file": "lesson_065.py",
+    "returncode": 0,
+    "stdout": "mkdir效果: True\nls效果: ['practice']\n",
+    "stderr": ""
+  },
+  {
+    "episode": 66,
+    "file": "lesson_066.py",
+    "returncode": 0,
+    "stdout": "复制结果: Python\n",
+    "stderr": ""
+  },
+  {
+    "episode": 67,
+    "file": "lesson_067.py",
+    "returncode": 0,
+    "stdout": "['note.txt']\n学习Python\n",
+    "stderr": ""
+  },
+  {
+    "episode": 68,
+    "file": "lesson_068.py",
+    "returncode": 0,
+    "stdout": "Python命令可找到: True\nLinux帮助示例: man ls；本示例未启动系统命令\n",
+    "stderr": ""
+  },
+  {
+    "episode": 69,
+    "file": "lesson_069.py",
+    "returncode": 0,
+    "stdout": "1..100求和: 5050\n奇数平方: [1, 9, 25]\n回文: True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 70,
+    "file": "lesson_070.py",
+    "returncode": 0,
+    "stdout": "素数: [2, 3, 5, 7, 11, 13, 17, 19]\n词频: {'python': 2, 'code': 1}\n",
+    "stderr": ""
+  },
+  {
+    "episode": 71,
+    "file": "lesson_071.py",
+    "returncode": 0,
+    "stdout": "斐波那契: [0, 1, 1, 2, 3, 5, 8, 13]\n最高分: {'name': '乙', 'score': 95}\n",
+    "stderr": ""
+  },
+  {
+    "episode": 72,
+    "file": "lesson_072.py",
+    "returncode": 0,
+    "stdout": "GET 200\n",
+    "stderr": ""
+  },
+  {
+    "episode": 73,
+    "file": "lesson_073.py",
+    "returncode": 0,
+    "stdout": "['课程1', '课程2']\n",
+    "stderr": ""
+  },
+  {
+    "episode": 74,
+    "file": "lesson_074.py",
+    "returncode": 0,
+    "stdout": "catalog: True\nprivate: False\n",
+    "stderr": ""
+  },
+  {
+    "episode": 75,
+    "file": "lesson_075.py",
+    "returncode": 0,
+    "stdout": "{'通用爬虫': '广泛收集', '聚焦爬虫': '限定主题', '增量爬虫': '仅处理新增数据'}\n新增: [3, 4]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 76,
+    "file": "lesson_076.py",
+    "returncode": 0,
+    "stdout": "请求 -> 响应 -> 解析 -> 保存候选: 2\n",
+    "stderr": ""
+  },
+  {
+    "episode": 77,
+    "file": "lesson_077.py",
+    "returncode": 0,
+    "stdout": "http example.test /a\nhttps example.test /a\nHTTPS在HTTP传输外提供TLS保护；本地演示服务使用HTTP\n",
+    "stderr": ""
+  },
+  {
+    "episode": 78,
+    "file": "lesson_078.py",
+    "returncode": 0,
+    "stdout": "方法: GET\n状态: 200\n内容类型: application/json; charset=utf-8\n页码: 2\n",
+    "stderr": ""
+  },
+  {
+    "episode": 79,
+    "file": "lesson_079.py",
+    "returncode": 0,
+    "stdout": "StudyBot/1.0\n",
+    "stderr": ""
+  },
+  {
+    "episode": 80,
+    "file": "lesson_080.py",
+    "returncode": 0,
+    "stdout": "{'q': ['Python']}\n",
+    "stderr": ""
+  },
+  {
+    "episode": 81,
+    "file": "lesson_081.py",
+    "returncode": 0,
+    "stdout": "已保存: response.json 内容非空: True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 82,
+    "file": "lesson_082.py",
+    "returncode": 0,
+    "stdout": "200 utf-8 True\nstr bytes\n1\n",
+    "stderr": ""
+  },
+  {
+    "episode": 83,
+    "file": "lesson_083.py",
+    "returncode": 0,
+    "stdout": "服务端收到: PythonStudyClient/1.0\n",
+    "stderr": ""
+  },
+  {
+    "episode": 84,
+    "file": "lesson_084.py",
+    "returncode": 0,
+    "stdout": "StudyClient/Desktop\nStudyClient/Mobile\n",
+    "stderr": ""
+  },
+  {
+    "episode": 85,
+    "file": "lesson_085.py",
+    "returncode": 0,
+    "stdout": "客户端发送: GET\n服务端返回: 200\nPython请求不会自动执行网页JavaScript\n",
+    "stderr": ""
+  },
+  {
+    "episode": 86,
+    "file": "lesson_086.py",
+    "returncode": 0,
+    "stdout": "q=Python+%E4%B8%AD%E6%96%87&page=2\n中文\n",
+    "stderr": ""
+  },
+  {
+    "episode": 87,
+    "file": "lesson_087.py",
+    "returncode": 0,
+    "stdout": "True {'q': ['中文'], 'page': ['2']}\n",
+    "stderr": ""
+  },
+  {
+    "episode": 88,
+    "file": "lesson_088.py",
+    "returncode": 0,
+    "stdout": "demo.svg 包含SVG: True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 89,
+    "file": "lesson_089.py",
+    "returncode": 0,
+    "stdout": "收到二进制: DEMO-MEDIA-BYTES\n这是演示字节，不是真实音频\n",
+    "stderr": ""
+  },
+  {
+    "episode": 90,
+    "file": "lesson_090.py",
+    "returncode": 0,
+    "stdout": "分块数: 4 字节数: 16\n演示分块读取，不是真实MV\n",
+    "stderr": ""
+  },
+  {
+    "episode": 91,
+    "file": "lesson_091.py",
+    "returncode": 0,
+    "stdout": "[{'id': 1, 'title': '课程1'}, {'id': 2, 'title': '课程2'}]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 92,
+    "file": "lesson_092.py",
+    "returncode": 0,
+    "stdout": "总数: 6 ID: [1, 2, 3, 4, 5, 6]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 93,
+    "file": "lesson_093.py",
+    "returncode": 0,
+    "stdout": "[{'id': 3, 'title': '课程3'}, {'id': 4, 'title': '课程4'}]\n",
+    "stderr": ""
+  },
+  {
+    "episode": 94,
+    "file": "lesson_094.py",
+    "returncode": 0,
+    "stdout": "{'method': 'POST', 'data': {'name': '小林'}}\n",
+    "stderr": ""
+  },
+  {
+    "episode": 95,
+    "file": "lesson_095.py",
+    "returncode": 0,
+    "stdout": "未登录: 401\n演示会话: 200 {'authorized': True}\n",
+    "stderr": ""
+  },
+  {
+    "episode": 96,
+    "file": "lesson_096.py",
+    "returncode": 0,
+    "stdout": "提交表单: {'text': ['hello'], 'target': ['zh']}\n此接口只回显表单，不提供真实翻译\n",
+    "stderr": ""
+  },
+  {
+    "episode": 97,
+    "file": "lesson_097.py",
+    "returncode": 0,
+    "stdout": "会话自动携带cookie: True\n",
+    "stderr": ""
+  },
+  {
+    "episode": 98,
+    "file": "lesson_098.py",
+    "returncode": 0,
+    "stdout": "会话1: 200\n会话2: 401\n",
+    "stderr": ""
+  },
+  {
+    "episode": 99,
+    "file": "lesson_099.py",
+    "returncode": 0,
+    "stdout": "代理协议: http\n代理地址: 127.0.0.1\n仅解释配置，未连接代理\n",
+    "stderr": ""
+  },
+  {
+    "episode": 100,
+    "file": "lesson_100.py",
+    "returncode": 0,
+    "stdout": "代理配置键: ['http', 'https']\n未发送请求：示例地址未运行真实代理服务\n",
+    "stderr": ""
+  }
+]
